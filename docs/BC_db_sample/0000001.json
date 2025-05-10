@@ -1,0 +1,73 @@
+{
+    "description": "'Dear Zoo' by Rod Campbell features a vivid cover illustration of a red animal crate with visible animal parts peeking through, such as a lion's mane. The playful design with the \"From the Zoo\" label on the crate invites young readers to explore what's inside, matching the lift-the-flap style of the book. The title \"Dear Zoo\" is prominently displayed at the top in bold, child-friendly lettering, and the book celebrates its \"30th anniversary\" as noted on the cover. ",
+    "objects": [
+        {
+            "prompt": "red animal crate",
+            "boxes": [
+                [
+                    0.5072118043899536,
+                    0.5303617119789124,
+                    0.8616639375686646,
+                    0.5681536197662354
+                ]
+            ],
+            "logits": [
+                0.9261773824691772
+            ],
+            "phrases": [
+                "red animal crate"
+            ]
+        },
+        {
+            "prompt": "mane",
+            "boxes": [
+                [
+                    0.4944915473461151,
+                    0.48644793033599854,
+                    0.06640828400850296,
+                    0.18998639285564423
+                ]
+            ],
+            "logits": [
+                0.49954479932785034
+            ],
+            "phrases": [
+                "mane"
+            ]
+        },
+        {
+            "prompt": "label with text 'From the Zoo'",
+            "boxes": [
+                [
+                    0.5216397643089294,
+                    0.5159491300582886,
+                    0.8921998143196106,
+                    0.5909102559089661
+                ]
+            ],
+            "logits": [
+                0.3971874415874481
+            ],
+            "phrases": [
+                "label with text"
+            ]
+        },
+        {
+            "prompt": "anniversary note",
+            "boxes": [
+                [
+                    0.27160534262657166,
+                    0.504855751991272,
+                    0.21239981055259705,
+                    0.17671208083629608
+                ]
+            ],
+            "logits": [
+                0.5634768009185791
+            ],
+            "phrases": [
+                "anniversary note"
+            ]
+        }
+    ]
+}
