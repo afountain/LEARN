@@ -5,7 +5,7 @@
 
 ## 📌News
 
-[2025.7.25] - 🧨 Accepted by ICONIP2025 Conference  
+[2025.7.25] - 🧨 Accepted by 32nd International Conference on Neural Information Processing  
 
 [2024.8.21] - Finished the bookcover db for STEM GenAI  
 
