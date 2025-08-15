@@ -4,8 +4,11 @@
 ![sample](docs/fig.3.png "sample")
 
 ## 📌News
-[2025.7.25] - 🧨Accepted by ICONIP2025 Conference 
-[2024.8.21] - 🧨Finished the bookcover db for STEM GenAI 
+
+[2025.7.25] - 🧨 Accepted by ICONIP2025 Conference  
+
+[2024.8.21] - Finished the bookcover db for STEM GenAI  
+
 
 
 ## ⏰TODOs
